@@ -1,5 +1,5 @@
 <a
-href="https://www.facebook.com/profile.php?id=61561264605347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SujonBevies" height="30" width="40" /></a>
+href="https://www.facebook.com/boy.aryan.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SujonBevies" height="30" width="40" /></a>
 <a href="https://instagram.com/sujonbevies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SujonBevjes" height="30" width="40" /></a>
 </p>
 
@@ -8,7 +8,7 @@ href="https://www.facebook.com/profile.php?id=61561264605347" target="blank"><im
 
 ## 📊 Github Stats
 
-<img align="right" src="https://img.shields.io/github/stars/SUJON-BEVIES?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/SUJON-BEVIES?tab=followers"><img align="right" src="https://img.shields.io/github/followers/SUJON-BEVIES?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/SUJON-BEVIES">  <img align="right" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=SUJON-BEVIES"></a>
+<img align="right" src="https://img.shields.io/github/stars/ARYAN-BOT-404?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/ARYAN-BOT-404?tab=followers"><img align="right" src="https://img.shields.io/github/followers/SUJON-BEVIES?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/ARYAN-BOT-404">  <img align="right" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=SUJON-BEVIES"></a>
 
 <br><br>
 
@@ -16,7 +16,7 @@ href="https://www.facebook.com/profile.php?id=61561264605347" target="blank"><im
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJON-BEVIES&langs_count=8&theme=react&bg_color=151515" />
 </p>
 <p align="center">
-<a href="https://github.com/SUJON-BEVIES"><img alt="SUJON BEVIES's Github Stats"
+<a href="https://github.com/ARYAN-BOT-404"><img alt="SUJON BEVIES's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=SUJON-BEVIES&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUJON-BEVIES&theme=black-ice"
     alt="SujonBevies"/></p>
